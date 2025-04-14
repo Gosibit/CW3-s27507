@@ -44,6 +44,9 @@ Generated\ Files/
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
 
+.idea
+.DS_Store
+
 # NUnit
 *.VisualState.xml
 TestResult.xml
